@@ -3,15 +3,17 @@
     <section class="hero fade-in">
       <h1>Hi, my name is <span class="highlight">Zhibek</span></h1>
       <p>I am a second year CS student at NU, I am from Almaty and this page is all about me</p>
-      <!-- <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\src\assets\meopic.JPG" alt=""></div> -->
+      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\public\meopic.JPG" alt=""></div>
+      <!-- <div class="img-placeholder"><img src="https://drive.google.com/uc?export=view&id=1cHoDcZvQxF2yb-xdwdkXEGzYo3F8VJK6" alt="Me" class="hero-img" /></div> -->
+
     </section>
 
     <section class="section fade-in">
       <h1>My Hobbies</h1>
       <p>In my free time I do taekwondo, photography and hike.</p>
-      <!-- <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\src\assets\tkdpic.JPG" alt=""></div>
-      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\src\assets\campic.JPG" alt=""></div>
-      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\src\assets\hikpic.JPG" alt=""></div> -->
+      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\public\tkdpic.JPG" alt=""></div>
+      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\public\campic.JPG" alt=""></div>
+      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\public\hikpic.JPG" alt=""></div>
     </section>
 
   </div>
