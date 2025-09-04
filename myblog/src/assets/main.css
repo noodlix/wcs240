@@ -1,0 +1,18 @@
+@import './base.css';
+a,
+.green {
+  text-decoration: none;
+  color: rgb(177, 54, 75);
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: #ff6fa95b;
+  }
+}
+
+  body {
+    display: flex;
+    place-items: center;
+  }
