@@ -3,7 +3,7 @@
     <section class="hero fade-in">
       <h1>Hi, my name is <span class="highlight">Zhibek</span></h1>
       <p>I am a second year CS student at NU, I am from Almaty and this page is all about me</p>
-      <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\src\assets\meopic.JPG" alt=""></div>
+      <!-- <div class="img-placeholder"><img src="C:\Users\Huawei\Desktop\wcs240\myblog\src\assets\meopic.JPG" alt=""></div> -->
     </section>
 
     <section class="section fade-in">
