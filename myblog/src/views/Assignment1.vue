@@ -38,9 +38,9 @@
 
     </div>
 
-    <!-- <div class="img-wrapper">
-    2  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
-    </div> -->
+    <div class="img-wrapper">
+    <img src="/pic2.png" alt="Hurts Band" class="styled-img" />
+    </div>
 
 
             <div class="text-block fade-slide">
@@ -48,13 +48,13 @@
 
     </div>
 
-    <!-- <div class="img-wrapper">
-    3  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
-    </div> -->
+    <div class="img-wrapper">
+    <img src="/pic3.png" alt="Hurts Band" class="styled-img" />
+    </div>
 
-    <!-- <div class="img-wrapper">
-    4  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
-    </div> -->
+    <div class="img-wrapper">
+    <img src="/pic4.png" alt="Hurts Band" class="styled-img" />
+    </div>
 
 
     <div class="text-block fade-slide">
