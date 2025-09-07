@@ -28,9 +28,9 @@
       </p>
     </div>
 
-    <!-- <div class="img-wrapper">
-     1 <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
-    </div> -->
+    <div class="img-wrapper">
+     <img src="/pic1.png" alt="Hurts Band" class="styled-img" />
+    </div>
 
         <div class="text-block fade-slide">
             The music video celebrates individuality and gender fluidity, and as the group put themselves, “The video to Beautiful Ones is one of provocative poignancy.”
@@ -39,7 +39,7 @@
     </div>
 
     <!-- <div class="img-wrapper">
-    2  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    2  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
 
 
@@ -49,11 +49,11 @@
     </div>
 
     <!-- <div class="img-wrapper">
-    3  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    3  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
 
     <!-- <div class="img-wrapper">
-    4  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    4  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
 
 
@@ -62,7 +62,7 @@
     </div>
 
     <!-- <div class="img-wrapper">
-    5  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    5  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
 
     
@@ -74,7 +74,7 @@ The music video is edited so that it plays out in reverse, being presented nonli
 
     
     <!-- <div class="img-wrapper">
-    6  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    6  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
 
     
@@ -83,11 +83,11 @@ The music video is edited so that it plays out in reverse, being presented nonli
     </div>
         
     <!-- <div class="img-wrapper">
-    7 <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    7 <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
 
         <!-- <div class="img-wrapper">
-    8  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    8  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     
     <div class="text-block fade-slide">
@@ -95,7 +95,7 @@ As the video goes back in time more, Theo’s character showcases excellent acti
     </div>
 
             <!-- <div class="img-wrapper">
-    9  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    9  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
         <div class="text-block fade-slide">
           The next scene is of the main character in the club’s neon pink lights, surrounded by posters with the words “club lento” and a stylized merge of trans and rainbow flags which are made to look like the progress pride flag, with each color representing life, healing, sunlight, nature, serenity, spirit, people of colour and the HIV/AIDS community, and those who are living with or have died from HIV/AIDS, stigma surrounding the virus, transgender and non-binary people and the arrow shape emphasizing progress according to Women’s College hospital. As it was mentioned in Gee’s Language and learning, language was always multimodal, combining words, images, and sound, and it is up to the audience’s interpretation what colors and shapes mean.
@@ -103,18 +103,18 @@ As the video goes back in time more, Theo’s character showcases excellent acti
 
     
             <!-- <div class="img-wrapper">
-    10  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    10  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     
             <!-- <div class="img-wrapper">
-    11  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    11  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     <div class="text-block fade-slide">
 The hair and make up are canonically drag, with high arched eyebrows which mask masculine high eyebrow bridge, bold, eye enlarging eyeshadow that goes down to undereyes, big eyelash extensions, tons of blush, perfect tone that covers up skin texture and facial hair, sculpting nose and cheec contour which feminize the face and big, overlined lips are present, along with wide diameter hoop earrings and voluminous, long hair.
     </div>
 
                 <!-- <div class="img-wrapper">
-    12  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    12  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     <div class="text-block fade-slide">
 Here are some examples of canonical drag queen makeup, popularized on RuPauls Drag race, from which some drag makeup trends originate, such as Trixie Mattels’s unblended line contour and Katya Zamolodchikova’s russian doll aesthetic.
@@ -124,22 +124,22 @@ Here are some examples of canonical drag queen makeup, popularized on RuPauls Dr
 
 
                     <!-- <div class="img-wrapper">
-    13  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    13  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     <!-- <div class="img-wrapper">
-    14  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    14  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
         <!-- <div class="img-wrapper">
-    15  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    15  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
         <!-- <div class="img-wrapper">
-    16  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    16  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     <div class="text-block fade-slide">
 In the next scene we see Theo’s character enjoying the nightlife, dancing with other LGBTQ people, undisturbed and feeling in the right place, as one of the three perpetrators of assault is drinking at the table on the sidelines having a good distance between them, eyes transfixed on him, gaze following his every move across the club, as the audience wonders the reasoning, before it is finally revealed. 
     </div>
     <!-- <div class="img-wrapper">
-    17  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    17  <img src="/pic.png" alt="Hurts Band" class="styled-img" />
     </div> -->
     <div class="text-block fade-slide">
 The man attacking the main character has shot his shot and was rejected by the drag queen, making the themes of the music video even more unsettling and brutal. The band Hurts shouts out a theme relevant as ever, men feeling entitled to the object of their desire so hard that the idea of being rejected sends them spiralling, making them stalk and physically assault the poot soul that failed to reciprocate their feelings, wounding their fragile ego. In 2017, the year the music video was produced,  killings of transgender people hit record high, according to the headline of lvcriminaldefense.
