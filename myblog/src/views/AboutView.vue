@@ -15,9 +15,9 @@
     <section class="section fade-in">
       <h1>My Hobbies</h1>
       <p>In my free time I do taekwondo, photography and hike.</p>
-      <!-- <div class="img-placeholder"><img src="myblog/public/tkdpic.JPG" alt=""></div>
-      <div class="img-placeholder"><img src="myblog/public/campic.JPG" alt=""></div>
-      <div class="img-placeholder"><img src="myblog/public/hikpic.JPG" alt=""></div> -->
+      <div class="img-placeholder"><img src="/tkdpic.jpg" alt=""></div>
+      <div class="img-placeholder"><img src="/campic.jpg" alt=""></div>
+      <div class="img-placeholder"><img src="/hikpic.jpg" alt=""></div>
     </section>
 
   </div>
