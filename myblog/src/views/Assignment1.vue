@@ -27,10 +27,10 @@
         and featuring a Ukrainian Drag Queen ZhuZhu in their music video “Wings”.
       </p>
     </div>
-<!-- 
+
     <div class="img-wrapper">
      <img src="/pic1.png" alt="Hurts Band" class="styled-img" />
-    </div> -->
+    </div>
 
         <div class="text-block fade-slide">
             The music video celebrates individuality and gender fluidity, and as the group put themselves, “The video to Beautiful Ones is one of provocative poignancy.”
