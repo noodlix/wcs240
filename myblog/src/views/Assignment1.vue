@@ -94,16 +94,55 @@ The music video is edited so that it plays out in reverse, being presented nonli
 As the video goes back in time more, Theo’s character showcases excellent acting skills, going from laid-back, gum chewing, relaxed person who just got out of the club to get some air, still lip-syncing to music and spinning around, portraying gender euphoria and connection to the person's true self, going to careful, sensing danger, hyper aware of his surroundings, scaredly adjusting the top to cover up and trying to shield themselves, realizing his own vulnerability, the music video uses the gestural mode, body language and facial expressions to symbolize a shift in tone, and then the character starts full on running away from the three men, trying to escape and save himself from perceived transphobic and homophobic predators.
     </div>
 
+            <!-- <div class="img-wrapper">
+    9  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
         <div class="text-block fade-slide">
           The next scene is of the main character in the club’s neon pink lights, surrounded by posters with the words “club lento” and a stylized merge of trans and rainbow flags which are made to look like the progress pride flag, with each color representing life, healing, sunlight, nature, serenity, spirit, people of colour and the HIV/AIDS community, and those who are living with or have died from HIV/AIDS, stigma surrounding the virus, transgender and non-binary people and the arrow shape emphasizing progress according to Women’s College hospital. As it was mentioned in Gee’s Language and learning, language was always multimodal, combining words, images, and sound, and it is up to the audience’s interpretation what colors and shapes mean.
+    </div>
 
-
-
+    
+            <!-- <div class="img-wrapper">
+    10  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+    
+            <!-- <div class="img-wrapper">
+    11  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+    <div class="text-block fade-slide">
 The hair and make up are canonically drag, with high arched eyebrows which mask masculine high eyebrow bridge, bold, eye enlarging eyeshadow that goes down to undereyes, big eyelash extensions, tons of blush, perfect tone that covers up skin texture and facial hair, sculpting nose and cheec contour which feminize the face and big, overlined lips are present, along with wide diameter hoop earrings and voluminous, long hair.
+    </div>
+
+                <!-- <div class="img-wrapper">
+    12  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+    <div class="text-block fade-slide">
 Here are some examples of canonical drag queen makeup, popularized on RuPauls Drag race, from which some drag makeup trends originate, such as Trixie Mattels’s unblended line contour and Katya Zamolodchikova’s russian doll aesthetic.
+    </div>
 
 
-In the next scene we see Theo’s character enjoying the nightlife, dancing with other LGBTQ people, undisturbed and feeling in the right place, as one of the three perpetrators of assault is drinking at the table on the sidelines having a good distance between them, eyes transfixed on him, gaze following his every move across the club, as the audience wonders the reasoning, before it is finally revealed. The man attacking the main character has shot his shot and was rejected by the drag queen, making the themes of the music video even more unsettling and brutal. The band Hurts shouts out a theme relevant as ever, men feeling entitled to the object of their desire so hard that the idea of being rejected sends them spiralling, making them stalk and physically assault the poot soul that failed to reciprocate their feelings, wounding their fragile ego. In 2017, the year the music video was produced,  killings of transgender people hit record high, according to the headline of lvcriminaldefense.
+
+
+                    <!-- <div class="img-wrapper">
+    13  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+    <!-- <div class="img-wrapper">
+    14  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+        <!-- <div class="img-wrapper">
+    15  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+        <!-- <div class="img-wrapper">
+    16  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+    <div class="text-block fade-slide">
+In the next scene we see Theo’s character enjoying the nightlife, dancing with other LGBTQ people, undisturbed and feeling in the right place, as one of the three perpetrators of assault is drinking at the table on the sidelines having a good distance between them, eyes transfixed on him, gaze following his every move across the club, as the audience wonders the reasoning, before it is finally revealed. 
+    </div>
+    <!-- <div class="img-wrapper">
+    17  <img src="/meopic.JPG" alt="Hurts Band" class="styled-img" />
+    </div> -->
+    <div class="text-block fade-slide">
+The man attacking the main character has shot his shot and was rejected by the drag queen, making the themes of the music video even more unsettling and brutal. The band Hurts shouts out a theme relevant as ever, men feeling entitled to the object of their desire so hard that the idea of being rejected sends them spiralling, making them stalk and physically assault the poot soul that failed to reciprocate their feelings, wounding their fragile ego. In 2017, the year the music video was produced,  killings of transgender people hit record high, according to the headline of lvcriminaldefense.
     </div>
 
   </div>
