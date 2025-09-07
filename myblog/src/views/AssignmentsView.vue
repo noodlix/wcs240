@@ -7,13 +7,22 @@
       </section>
     </transition>
 
-    <transition name="fade-slide">
-      <section class="section" v-show="showAssignments">
-        <div class="img-placeholder">Assignment 1</div>
-        <div class="img-placeholder">Assignment 2</div>
-        <div class="img-placeholder">Assignment 3</div>
-      </section>
-    </transition>
+<transition name="fade-slide">
+  <section class="section" v-show="showAssignments">
+    <router-link to="/assignment1" class="img-placeholder">
+      Assignment 1
+    </router-link>
+
+    <router-link to="/assignment2" class="img-placeholder">
+      Assignment 2
+    </router-link>
+
+    <router-link to="/assignment3" class="img-placeholder">
+      Assignment 3
+    </router-link>
+  </section>
+</transition>
+
   </div>
 </template>
 
