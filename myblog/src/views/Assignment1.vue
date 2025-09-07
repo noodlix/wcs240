@@ -68,7 +68,7 @@
     
     <div class="text-block fade-slide">
         The visual mode and aural mode of the music video are strikingly contrasting - ambient sounds play as character of Theo with a bruised face full of blood stares tiredly into distance right before energetic pop song starts as the character angrily smashes the horn and cries in frustration as it was discussed in Writer Designer chapter 1, the video showcases multimodality and provokes intense emotions from the audience juxtaposing the calm and injured opening with the next intense scene, making it more impactful than either mode could achieve on its own. 
-The music video is edited so that it plays out in reverse, being presented nonlinearly, which as it is said in Writer Designer chapter 3 adds a dynamic dimension to the music video, the person watching has to figure out why Theo’s character is in make-up and beat up car-crashing into people, piecing together the chronology from visual cues.
+The music video is edited so that it plays out in reverse, being presented nonlinearly, which as it is said in Writer Designer chapter 3 adds a dynamic dimension to the music video, the person watching has to figure out why Theo’s character is in make-up and beat up, car-crashing into people, piecing together the chronology from visual cues.
 
     </div>
 
@@ -79,7 +79,7 @@ The music video is edited so that it plays out in reverse, being presented nonli
 
     
     <div class="text-block fade-slide">
-      As the video progresses, we go back in time to the three men undressing Theo’s character in a dull parking lot, and as it was mentioned in The Media Insider’s video on semiotics, editing is one of the four pillars of polisemics, along with Mise-en-scene, camerawork and sound. As the lyrics say, “put on your coat” and “make them all desperate to be you” violent undressing and assault are seen as men dressing the main character up, putting him into white high heels, black sequin, red leather vest and long dark hair which symbolize hyperfemininity, exaggeration and camp, just like the character had put the items on at home before going out, stepping into the drag queens persona and experimenting with gender, flowing from one extreme into another and back.
+      As the video progresses, we go back in time to the three men undressing Theo’s character in a dull parking lot, and as it was mentioned in The Media Insider’s video on semiotics, editing is one of the four pillars of polisemics, along with Mise-en-scene, camerawork and sound. As the lyrics say, “put on your coat” and “make them all desperate to be you” violent undressing and assault are seen as men dressing the main character up, putting him into white high heels, black sequin bra, red leather vest and long dark hair which symbolize hyperfemininity, exaggeration and camp, just like the character had put the items on at home before going out, stepping into the drag queens persona and experimenting with gender, flowing from one extreme into another and back.
     </div>
         
     <div class="img-wrapper">
@@ -91,7 +91,7 @@ The music video is edited so that it plays out in reverse, being presented nonli
     </div>
     
     <div class="text-block fade-slide">
-As the video goes back in time more, Theo’s character showcases excellent acting skills, going from laid-back, gum chewing, relaxed person who just got out of the club to get some air, still lip-syncing to music and spinning around, portraying gender euphoria and connection to the person's true self, going to careful, sensing danger, hyper aware of his surroundings, scaredly adjusting the top to cover up and trying to shield themselves, realizing his own vulnerability, the music video uses the gestural mode, body language and facial expressions to symbolize a shift in tone, and then the character starts full on running away from the three men, trying to escape and save himself from perceived transphobic and homophobic predators.
+As the video goes back in time further, Theo’s character showcases excellent acting skills, going from laid-back, gum chewing, relaxed person who just got out of the club to get some air, still lip-syncing to music and spinning around, portraying gender euphoria and connection to the person's true self, going to careful, sensing danger, hyper aware of his surroundings, scaredly adjusting the top to cover up and trying to shield himself, realizing his own vulnerability, the music video uses the gestural mode, body language and facial expressions to symbolize a shift in tone, and then the character starts full on running away from the three men, trying to escape and save himself from perceived transphobic and homophobic predators.
     </div>
 
             <div class="img-wrapper">
@@ -110,14 +110,14 @@ As the video goes back in time more, Theo’s character showcases excellent acti
       <img src="/pic11.png" alt="Hurts Band" class="styled-img" />
     </div>
     <div class="text-block fade-slide">
-The hair and make up are canonically drag, with high arched eyebrows which mask masculine high eyebrow bridge, bold, eye enlarging eyeshadow that goes down to undereyes, big eyelash extensions, tons of blush, perfect tone that covers up skin texture and facial hair, sculpting nose and cheec contour which feminize the face and big, overlined lips are present, along with wide diameter hoop earrings and voluminous, long hair.
+The hair and make up are canonically drag, with high arched eyebrows which mask masculine high eyebrow bridge, bold, eye enlarging eyeshadow that goes down to undereyes, big eyelash extensions, tons of blush, perfect tone that covers up skin texture and facial hair, sculpting nose and cheeck contour which feminize the face and big, overlined lips are present, along with wide diameter hoop earrings and voluminous, long hair.
     </div>
 
                 <div class="img-wrapper">
       <img src="/pic12.png" alt="Hurts Band" class="styled-img" />
     </div>
     <div class="text-block fade-slide">
-Here are some examples of canonical drag queen makeup, popularized on RuPauls Drag race, from which some drag makeup trends originate, such as Trixie Mattels’s unblended line contour and Katya Zamolodchikova’s russian doll aesthetic.
+Here are some examples of canonical drag queen makeup from Pinterest, popularized on RuPaul's Drag race, from which some drag makeup trends originate, such as Trixie Mattels’s unblended line contour and Katya Zamolodchikova’s russian doll aesthetic.
     </div>
 
 
@@ -136,13 +136,13 @@ Here are some examples of canonical drag queen makeup, popularized on RuPauls Dr
       <img src="/pic16.png" alt="Hurts Band" class="styled-img" />
     </div>
     <div class="text-block fade-slide">
-In the next scene we see Theo’s character enjoying the nightlife, dancing with other LGBTQ people, undisturbed and feeling in the right place, as one of the three perpetrators of assault is drinking at the table on the sidelines having a good distance between them, eyes transfixed on him, gaze following his every move across the club, as the audience wonders the reasoning, before it is finally revealed. 
+In the next scene we see Theo’s character enjoying the nightlife, dancing with other LGBTQ people, undisturbed and feeling like he belongs there, as one of the three perpetrators of assault is drinking at the table on the sidelines, having a good distance between them, eyes transfixed on him, gaze following his every move across the club, as the audience wonders what is his reasoning and motive, before it is finally revealed. 
     </div>
     <div class="img-wrapper">
       <img src="/pic17.png" alt="Hurts Band" class="styled-img" />
     </div>
     <div class="text-block fade-slide">
-The man attacking the main character has shot his shot and was rejected by the drag queen, making the themes of the music video even more unsettling and brutal. The band Hurts shouts out a theme relevant as ever, men feeling entitled to the object of their desire so hard that the idea of being rejected sends them spiralling, making them stalk and physically assault the poot soul that failed to reciprocate their feelings, wounding their fragile ego. In 2017, the year the music video was produced,  killings of transgender people hit record high, according to the headline of lvcriminaldefense.
+The man attacking the main character has shot his shot and was rejected by the drag queen, making the themes of the music video even more unsettling and brutal. The band Hurts highlights a theme relevant as ever, men feeling entitled to the object of their desire so hard that the idea of being rejected sends them spiralling, making them stalk and physically assault the poor soul that failed to reciprocate their feelings, wounding their fragile ego. In 2017, the year the music video was produced,  killings of transgender people hit record high, according to Lvcriminaldefense.
     </div>
 
   </div>
