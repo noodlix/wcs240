@@ -3,7 +3,11 @@
     <section class="hero fade-in">
       <h1>Hi, my name is <span class="highlight">Zhibek</span></h1>
       <p>I am a second year CS student at NU, I am from Almaty and this page is about me</p>
-      <!-- <div class="img-placeholder"><img src="myblog/public/meopic.JPG" alt=""></div> -->
+      <div class="img-placeholder"><img src="/meopic.jpg" alt=""></div>
+           <link rel="icon" href="/favicon.ico">
+           <a href="https://example.com" target="_blank" rel="noopener">
+  <!-- <img src="/meopic.jpg" alt="Profile picture" class="styled-img" /> -->
+</a>
       <!-- <div class="img-placeholder"><img src="https://drive.google.com/uc?export=view&id=1cHoDcZvQxF2yb-xdwdkXEGzYo3F8VJK6" alt="Me" class="hero-img" /></div> -->
 
     </section>

@@ -10,7 +10,7 @@
 <transition name="fade-slide">
   <section class="section" v-show="showAssignments">
     <router-link to="/assignment1" class="img-placeholder">
-      Assignment 1
+      Blog
     </router-link>
 
     <router-link to="/assignment2" class="img-placeholder">
