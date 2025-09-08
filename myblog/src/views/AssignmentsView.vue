@@ -10,18 +10,22 @@
 <transition name="fade-slide">
   <section class="section" v-show="showAssignments">
     <router-link to="/assignment1" class="img-placeholder">
-      Blog
+      <span>Blog</span>
+      <img src="/cover1.png" alt="Assignment 1 preview" class="hover-img" />
     </router-link>
 
     <router-link to="/assignment2" class="img-placeholder">
-      Assignment 2
+      <span>Assignment 2</span>
+      <img src="/cover2.png" alt="Assignment 2 preview" class="hover-img" />
     </router-link>
 
     <router-link to="/assignment3" class="img-placeholder">
-      Assignment 3
+      <span>Assignment 3</span>
+      <img src="/cover3.png" alt="Assignment 3 preview" class="hover-img" />
     </router-link>
   </section>
 </transition>
+
 
   </div>
 </template>
@@ -116,13 +120,34 @@ h2 {
   justify-content: center;
   color: #ff69b4;
   font-weight: bold;
-  transition: transform 0.1s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  flex-direction: column;
 }
 
 .img-placeholder:hover {
   transform: scale(1.05);
   box-shadow: 0 6px 12px rgba(255, 105, 180, 0.3);
 }
+
+/* hidden image initially */
+.hover-img {
+  opacity: 0;
+  max-height: 0;
+  transition: opacity 0.4s ease, max-height 0.4s ease;
+  margin-top: 0.5rem;
+  border-radius: 10px;
+  width: 100%;
+  object-fit: cover;
+}
+
+/* reveal image on hover */
+.img-placeholder:hover .hover-img {
+  opacity: 1;
+  max-height: 200px;
+}
+
 
 .fade-slide-enter-active, .fade-slide-leave-active {
   transition: all 1s ease;

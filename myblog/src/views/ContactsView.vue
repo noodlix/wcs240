@@ -3,7 +3,7 @@
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
         <h1>📬 Contact Me</h1>
-        <p>Let’s connect and share ideas</p>
+        <p>Let’s connect and share ideas!</p>
       </section>
     </transition>
 
@@ -63,17 +63,16 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
 
 .contacts {
-  font-family: "Quicksand", sans-serif;
-  /* background: linear-gradient(180deg, #fff0f6, #ffe4ec); */
+  font-family: "Poppins", sans-serif;
+  /* background: linear-gradient(180deg, #fff0f65b, #ffe4ec85); */
   min-height: 100vh;
   padding: 2rem;
   line-height: 1.6;
   color: #333;
   text-align: center;
-  position: relative;
   width: 100%;
   overflow-x: hidden;
-
+  position: relative;
 }
 
 h1 {

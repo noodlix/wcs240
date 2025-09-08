@@ -1,5 +1,5 @@
 <template>
-  <div class="contacts">
+  <div class="assignment">
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
         <h1>Hurts – Beautiful Ones</h1>
@@ -268,7 +268,7 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
 
-.contacts {
+.assignment {
   font-family: "Quicksand", sans-serif;
   min-height: 100vh;
   padding: 2rem;
@@ -294,18 +294,12 @@ p {
 }
 .bkgrd{
   /* background-color: rgba(255, 255, 255, 0.651); */
-  padding-left: 40px;
-  padding-right: 40px;
   border-radius: 15px;
 }
 
 .norow{
   padding-top: 40px;
   padding-bottom: 40px;
-}
-
-.onerow{
-
 }
 .video-container {
   position: relative;
@@ -368,7 +362,6 @@ p {
   box-shadow: 0 4px 12px rgba(255, 105, 180, 0.1);
 }
 
-/* image */
 .img-wrapper {
   margin: 2rem auto;
   max-width: 500px;
@@ -388,7 +381,6 @@ p {
   width: 100%;              
 }
 
-/* transitions */
 .fade-slide-enter-active,
 .fade-slide-leave-active {
   transition: all 1s ease;
