@@ -15,7 +15,7 @@
     </div>
 
     <div class="img-row bkgrd">
-    <div class="text-block fade-slide">
+    <div class="text-block fade-slide" id="short">
       <p>
         Hurts, duo – a British pop rock group with members Adam Anderson and Theo Hutchcraft,
         gained massive success in Eastern Europe and the post-Soviet space, consistently charting in the early 2010s.
@@ -139,7 +139,6 @@
     <div class="img-wrapper">
       <img src="/pic9.png" alt="Hurts Band" class="styled-img" />
     </div>
-    <div class="img-row">
 
     <div class="text-block fade-slide">
       The next scene is of the main character in the club’s neon pink lights, surrounded by posters with the words “club
@@ -154,7 +153,6 @@
 
     <div class="img-wrapper">
       <img src="/pic10.png" alt="Hurts Band" class="styled-img" />
-    </div>
     </div>
     </div>
 
@@ -268,6 +266,13 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
 
+#short{
+  width: 600px;
+}
+
+#short2{
+  width: 600px;
+}
 .assignment {
   font-family: "Quicksand", sans-serif;
   min-height: 100vh;
@@ -316,7 +321,7 @@ p {
   justify-content: center;
   gap: 1.5rem; /* space between the images */
   margin: 2rem auto;
-  max-width: 1000px;
+  max-width: 100vw;
   max-height: 600px;
 }
 
@@ -329,11 +334,12 @@ p {
 .styled-img {
   width: 100%;
   height: 100%;          /* force equal height */
-  object-fit: cover;     /* crop to keep proportions */
+  /* object-fit: cover;     crop to keep proportions */
   border-radius: 15px;
   box-shadow: 0 6px 15px rgba(255, 105, 180, 0.2);
   transition: transform 0.3s ease;
 }
+
 
 .styled-img:hover {
   transform: scale(1.05);
