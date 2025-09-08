@@ -4,7 +4,7 @@
       <h1>Hi, my name is <span class="highlight">Zhibek</span></h1>
       <p>I am a second year CS student at NU, I am from Almaty and this page is about me</p>
       <div class="img-placeholder"><img src="/meopic.jpg" alt=""></div>
-           <link rel="icon" href="/favicon.ico">
+           <link rel="icon" src="/bow2.PNG">
            <a href="https://example.com" target="_blank" rel="noopener">
   <!-- <img src="/meopic.jpg" alt="Profile picture" class="styled-img" /> -->
 </a>
