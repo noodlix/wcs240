@@ -15,8 +15,8 @@
     </router-link>
 
     <router-link to="/assignment2" class="img-placeholder">
-      <span>Assignment 2</span>
-      <img src="/cover2.png" alt="Assignment 2 preview" class="hover-img" />
+      <span>Infographic</span>
+      <img src="/infgr.png" alt="Assignment 2 preview" class="hover-img" />
     </router-link>
 
     <router-link to="/assignment3" class="img-placeholder">

@@ -2,8 +2,10 @@
   <div class="assignment">
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
-        <h1>Assignment 2</h1>
-        <p>nothing here</p>
+        <h1>Infographic</h1>
+            <div class="img-wrapper">
+      <img src="/photography.png" alt="Hurts Band" class="styled-img" />
+    </div>
       </section>
     </transition>
 
@@ -85,4 +87,25 @@ p {
     transform: translateY(0);
   }
 }
+.styled-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* keeps aspect ratio while fitting */
+  display: block;
+}
+.img-wrapper {
+  flex: 1;
+  display: flex;
+  align-items: stretch;
+  margin: 2rem auto;
+  max-width: 500px;
+}
+
+.styled-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
 </style>
