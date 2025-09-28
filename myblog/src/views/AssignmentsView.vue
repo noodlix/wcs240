@@ -20,7 +20,8 @@
     </router-link>
 
     <router-link to="/assignment3" class="img-placeholder">
-      <span>Assignment 3</span>
+      <span>Love
+      </span>
       <img src="/cover3.png" alt="Assignment 3 preview" class="hover-img" />
     </router-link>
   </section>
