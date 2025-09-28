@@ -8,7 +8,7 @@
     </transition>
 
     <div class="video-container">
-      <iframe src="https://youtu.be/rbTu8dH2KRM?si=w8BhfXAkuHm568IE" frameborder="0"
+      <iframe src="https://www.youtube.com/embed/rbTu8dH2KRM?si=3PDC7uTlW2cZu1_Z" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
       </iframe>
