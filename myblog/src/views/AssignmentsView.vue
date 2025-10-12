@@ -24,6 +24,12 @@
       </span>
       <img src="/cover3.png" alt="Assignment 3 preview" class="hover-img" />
     </router-link>
+
+    <router-link to="/assignment4" class="img-placeholder">
+      <span>Digital Narrative
+      </span>
+      <img src="/cover4.png" alt="Assignment 4 preview" class="hover-img" />
+    </router-link>
   </section>
 </transition>
 
