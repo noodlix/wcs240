@@ -28,42 +28,7 @@ Overall, this project helped me develop new skills. I learned how to edit videos
 
       </p>
     </div>
-
-
-                        <div class="text-block fade-slide" id="short">
-      <p>
-Next we find out it is my birthday from girls inviting me out to drink which I also decline due to calories in alcohol, and in the end scene I am all alone on my birthday binging by myself.
-
-      </p>
     </div>
-
-
-<div class="text-block fade-slide" id="short">
-      <p>
-Some of the challenges include not having an operator for intimate scenes, accidentally filming some dialogue in russian and some in english and making the decision to voice over the russian parts and used a voice changer on CapCut to make my voice sound lower.
-
-      </p>
-    </div>
-
-<div class="text-block fade-slide" id="short">
-      <p>
-        All five modes of communication discussed in the James Paul Gee’s Language and Learning in the Digital age were used to enhance my digital Narrative. The linguistic mode is the lyrics of the song that correlate to what is happening in the video, the dialogue between the actors and the numbers which are prevalent in the video: the weight on the scales, caloric values of drinks and meals. The visual mode is used as different shots in the video tell the story, the hazy filter establishes what the audience’s eyes should focus on and the black and white filter tells the audience what I imagine would happen if I agree to go out with the boy in the video, eat lunch with a friend or go clubbing with girls on my birthday. The aural mode is used as a song plays in the background of the video, the energetic part starts when the roommate exits and the disordered thoughts take full control over me, the silent stops continued by “ding” sounds show when pivot points occur in the narrative, the music gets quieter when characters speak to let the audience hear them. The spatial mode is used as in the scenes of binging in the kitchen and binging on my birthday. I use negative space and sit as a small character as the camera pans out to create pressure and a negative mood, I sit surrounded by food, the organization of objects utilize it as well. The gestural mode is used as I put my hands on my eyes to show regret and sadness, in the scene when a boy is asking me out on a date I gesticulate and laugh to show that I like him and get nervous around him. My facial expressions in the morning get ready scene show disappointment and tiredness as I am not satisfied with what the scales showed me.
-      </p>
-    </div>
-
-<div class="text-block fade-slide" id="short">
-      <p>
-The intended audience of the video is teenagers, mostly girls that had struggled or are still struggling with restrictive eating disorders who might feel like their problems are made up and it is their fault they have fallen out with everyone, who feel anxious or intimidated by situations that might involve food in social settings as they feel ashamed to eat too much or too little and attract any attention to themselves
-
-      </p>
-    </div>
-
-<div class="text-block fade-slide" id="short">
-      <p>
-I had referenced the show “Insatiable” in the closing the refrigerator scene and the pouring dishwashing solution on top of the food scene.
-      </p>
-    </div>
-  </div>
 </template>
 
 <script>
