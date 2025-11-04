@@ -22,7 +22,7 @@ const router = createRouter({
       name: 'assignments',
       component: () => import('../views/AssignmentsView.vue'),
     },
-        {
+    {
       path: '/contacts',
       name: 'contacts',
       component: () => import('../views/ContactsView.vue'),
@@ -32,27 +32,27 @@ const router = createRouter({
       name: 'assignment1',
       component: () => import('../views/Assignment1.vue'),
     },
-        {
+    {
       path: '/assignment2',
       name: 'assignment2',
       component: () => import('../views/Assignment2.vue'),
     },
-        {
+    {
       path: '/assignment3',
       name: 'assignment3',
       component: () => import('../views/Assignment3.vue'),
     },
-        {
+    {
       path: '/assignment4',
       name: 'assignment4',
       component: () => import('../views/Assignment4.vue'),
     },
-    
-    //     {
-    //   path: '/assignment5',
-    //   name: 'assignment5',
-    //   component: () => import('../views/Assignment5.vue'),
-    // },
+
+    {
+      path: '/assignment5',
+      name: 'assignment5',
+      component: () => import('../views/Assignment5.vue'),
+    },
   ],
 })
 

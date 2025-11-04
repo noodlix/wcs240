@@ -12,7 +12,7 @@ a,
   }
 }
 
-  body {
-    display: flex;
-    place-items: center;
-  }
+body {
+  display: flex;
+  place-items: center;
+}

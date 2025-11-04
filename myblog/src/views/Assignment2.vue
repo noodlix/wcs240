@@ -3,41 +3,37 @@
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
         <h1>Infographic</h1>
-            <div class="img-wrapper">
-      <img src="/photography.png" alt="Hurts Band" class="styled-img" />
-    </div>
+        <div class="img-wrapper">
+          <img src="/photography.png" alt="Hurts Band" class="styled-img" />
+        </div>
       </section>
     </transition>
-
-
-</div>
+  </div>
 </template>
 
 <script>
 export default {
-  name: "ContactsPage",
+  name: 'ContactsPage',
   data() {
     return {
       showHeader: false,
       showSocials: false,
-      hearts: []
-    };
+      hearts: [],
+    }
   },
-  methods: {
-
-  },
+  methods: {},
   mounted() {
-    setTimeout(() => (this.showHeader = true), 300);
-    setTimeout(() => (this.showSocials = true), 1000);
-  }
-};
+    setTimeout(() => (this.showHeader = true), 300)
+    setTimeout(() => (this.showSocials = true), 1000)
+  },
+}
 </script>
 
 <style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
 
 .assignment {
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   min-height: 100vh;
   padding: 2rem;
   line-height: 1.6;
@@ -107,5 +103,4 @@ p {
   object-fit: contain;
   display: block;
 }
-
 </style>

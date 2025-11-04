@@ -4,20 +4,20 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <div class="center">
-  <div class="alin">
-    <nav>
-      <RouterLink to="/">Main</RouterLink>
-      <RouterLink to="/about">About</RouterLink>
-      <RouterLink to="/assignments">Assignments</RouterLink>
-      <RouterLink to="/contacts">Contacts</RouterLink>
-    </nav>
-  </div>
-
-  <div class="cnt">
     <div class="alin">
-      <RouterView />
+      <nav>
+        <RouterLink to="/">Main</RouterLink>
+        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/assignments">Assignments</RouterLink>
+        <RouterLink to="/contacts">Contacts</RouterLink>
+      </nav>
     </div>
-  </div>
+
+    <div class="cnt">
+      <div class="alin">
+        <RouterView />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -57,7 +57,6 @@ nav a:hover {
   background-color: rgb(255, 240, 243);
 }
 
-
 @media (max-width: 600px) {
   nav {
     flex-direction: column;
@@ -72,12 +71,10 @@ nav a:hover {
   }
 }
 
-
 .cnt {
-  background-color:  rgb(255,240,243);
+  background-color: rgb(255, 240, 243);
   min-height: 100vh;
   width: 100vw;
-
 }
 
 .center {
@@ -85,7 +82,7 @@ nav a:hover {
   width: 100vw;
   display: flex;
   flex-direction: column; /* stack nav and content vertically */
-  align-items: center;    /* center horizontally */
+  align-items: center; /* center horizontally */
 }
 
 .alin {
@@ -97,5 +94,4 @@ nav a:hover {
   max-width: 900px; /* optional: prevents content stretching too wide */
   margin: 0 auto;
 }
-
 </style>

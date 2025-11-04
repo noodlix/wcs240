@@ -11,9 +11,27 @@
       <section class="socials" v-show="showSocials">
         <h1>Find me on</h1>
         <div class="social-links">
-          <a href="https://www.instagram.com/noodlix?igsh=MWwyYTYzbWc4c2EzMw==" target="_blank" rel="noopener noreferrer" class="link-placeholder">Instagram</a>
-          <a href="https://web.telegram.org/k/#@noodlix" target="_blank" rel="noopener noreferrer" class="link-placeholder">Telegram</a>
-          <a href="https://github.com/noodlix" target="_blank" rel="noopener noreferrer" class="link-placeholder">GitHub</a>
+          <a
+            href="https://www.instagram.com/noodlix?igsh=MWwyYTYzbWc4c2EzMw=="
+            target="_blank"
+            rel="noopener noreferrer"
+            class="link-placeholder"
+            >Instagram</a
+          >
+          <a
+            href="https://web.telegram.org/k/#@noodlix"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="link-placeholder"
+            >Telegram</a
+          >
+          <a
+            href="https://github.com/noodlix"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="link-placeholder"
+            >GitHub</a
+          >
         </div>
       </section>
     </transition>
@@ -24,46 +42,46 @@
 
 <script>
 export default {
-  name: "ContactsPage",
+  name: 'ContactsPage',
   data() {
     return {
       showHeader: false,
       showSocials: false,
-      hearts: []
-    };
+      hearts: [],
+    }
   },
   methods: {
     launchHearts() {
-      const id = Date.now();
-      const left = Math.random() * 90;
-      const duration = 3 + Math.random() * 2;
-      const size = 16 + Math.random() * 20;
+      const id = Date.now()
+      const left = Math.random() * 90
+      const duration = 3 + Math.random() * 2
+      const size = 16 + Math.random() * 20
       this.hearts.push({
         id,
         style: {
           left: `${left}%`,
           animationDuration: `${duration}s`,
-          fontSize: `${size}px`
-        }
-      });
+          fontSize: `${size}px`,
+        },
+      })
       setTimeout(() => {
-        this.hearts = this.hearts.filter(h => h.id !== id);
-      }, duration * 1000);
-    }
+        this.hearts = this.hearts.filter((h) => h.id !== id)
+      }, duration * 1000)
+    },
   },
   mounted() {
-    setTimeout(() => (this.showHeader = true), 300);
-    setTimeout(() => (this.showSocials = true), 1000);
-    setInterval(this.launchHearts, 2000);
-  }
-};
+    setTimeout(() => (this.showHeader = true), 300)
+    setTimeout(() => (this.showSocials = true), 1000)
+    setInterval(this.launchHearts, 2000)
+  },
+}
 </script>
 
 <style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
 
 .contacts {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   /* background: linear-gradient(180deg, #fff0f65b, #ffe4ec85); */
   min-height: 100vh;
   padding: 2rem;
@@ -96,8 +114,8 @@ h2 {
   margin: 2rem 0 1rem;
   color: #ff69b4;
 }
-.header{
-    margin-bottom: 4rem;
+.header {
+  margin-bottom: 4rem;
 }
 .link-placeholder {
   display: inline-block;
@@ -108,18 +126,17 @@ h2 {
   transition: all 0.3s ease;
   position: relative;
   cursor: pointer;
-  text-decoration: none;    
+  text-decoration: none;
 }
 
 .link-placeholder:visited {
-  color: #ff6fa9;      
+  color: #ff6fa9;
 }
 
 .link-placeholder:hover {
   color: #fff;
   background-color: #ff6fa9;
 }
-
 
 .social-links {
   display: flex;
@@ -149,8 +166,14 @@ h2 {
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(15px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .heart {
@@ -163,7 +186,13 @@ h2 {
 }
 
 @keyframes floatUp {
-  0% { opacity: 0.6; transform: translateY(0) scale(1); }
-  100% { opacity: 0; transform: translateY(-100vh) scale(0.8); }
+  0% {
+    opacity: 0.6;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-100vh) scale(0.8);
+  }
 }
 </style>

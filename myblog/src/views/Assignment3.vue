@@ -8,64 +8,66 @@
     </transition>
 
     <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/rbTu8dH2KRM?si=3PDC7uTlW2cZu1_Z" frameborder="0"
+      <iframe
+        src="https://www.youtube.com/embed/rbTu8dH2KRM?si=3PDC7uTlW2cZu1_Z"
+        frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
+        allowfullscreen
+      >
       </iframe>
     </div>
-
   </div>
 </template>
 
 <script>
 export default {
-  name: "ContactsPage",
+  name: 'ContactsPage',
   data() {
     return {
       showHeader: false,
       showSocials: false,
-      hearts: []
-    };
+      hearts: [],
+    }
   },
   methods: {
     launchHearts() {
-      const id = Date.now();
-      const left = Math.random() * 90;
-      const duration = 3 + Math.random() * 2;
-      const size = 16 + Math.random() * 20;
+      const id = Date.now()
+      const left = Math.random() * 90
+      const duration = 3 + Math.random() * 2
+      const size = 16 + Math.random() * 20
       this.hearts.push({
         id,
         style: {
           left: `${left}%`,
           animationDuration: `${duration}s`,
-          fontSize: `${size}px`
-        }
-      });
+          fontSize: `${size}px`,
+        },
+      })
       setTimeout(() => {
-        this.hearts = this.hearts.filter(h => h.id !== id);
-      }, duration * 1000);
-    }
+        this.hearts = this.hearts.filter((h) => h.id !== id)
+      }, duration * 1000)
+    },
   },
   mounted() {
-    setTimeout(() => (this.showHeader = true), 300);
-    setTimeout(() => (this.showSocials = true), 1000);
-    setInterval(this.launchHearts, 2000);
-  }
-};
+    setTimeout(() => (this.showHeader = true), 300)
+    setTimeout(() => (this.showSocials = true), 1000)
+    setInterval(this.launchHearts, 2000)
+  },
+}
 </script>
 
 <style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
 
-#short{
+#short {
   width: 600px;
 }
 
-#short2{
+#short2 {
   width: 600px;
 }
 .assignment {
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   min-height: 100vh;
   padding: 2rem;
   line-height: 1.6;
@@ -88,12 +90,12 @@ p {
   font-size: 1.1rem;
   color: #444;
 }
-.bkgrd{
+.bkgrd {
   /* background-color: rgba(255, 255, 255, 0.651); */
   border-radius: 15px;
 }
 
-.norow{
+.norow {
   padding-top: 40px;
   padding-bottom: 40px;
 }
@@ -117,25 +119,23 @@ p {
 }
 
 .img-wrapper {
-  flex: 1;               /* each takes equal width */
-  display: flex;         /* center image inside */
-  align-items: stretch;  /* make wrappers the same height */
+  flex: 1; /* each takes equal width */
+  display: flex; /* center image inside */
+  align-items: stretch; /* make wrappers the same height */
 }
 
 .styled-img {
   width: 100%;
-  height: 100%;          /* force equal height */
+  height: 100%; /* force equal height */
   /* object-fit: cover;     crop to keep proportions */
   border-radius: 15px;
   box-shadow: 0 6px 15px rgba(255, 105, 180, 0.2);
   transition: transform 0.3s ease;
 }
 
-
 .styled-img:hover {
   transform: scale(1.05);
 }
-
 
 .video-container iframe {
   position: absolute;
@@ -175,7 +175,7 @@ p {
 
 .styled-img:hover {
   transform: scale(1.05);
-  width: 100%;              
+  width: 100%;
 }
 
 .fade-slide-enter-active,
