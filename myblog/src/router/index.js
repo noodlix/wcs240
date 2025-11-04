@@ -48,11 +48,11 @@ const router = createRouter({
       component: () => import('../views/Assignment4.vue'),
     },
     
-        {
-      path: '/assignment5',
-      name: 'assignment5',
-      component: () => import('../views/Assignment5.vue'),
-    },
+    //     {
+    //   path: '/assignment5',
+    //   name: 'assignment5',
+    //   component: () => import('../views/Assignment5.vue'),
+    // },
   ],
 })
 
