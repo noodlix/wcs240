@@ -2,7 +2,8 @@
   <div class="assignment">
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
-        <h1>psa</h1>
+        <h1>Public Service Announcement</h1>
+        <h3>by Nazym Murat & Zhibek Zhumagul</h3>
       </section>
     </transition>
 
@@ -45,12 +46,6 @@
         When creating the PSA, we used several camera techniques. For example, we used a dolly effect to show the main character learning about financial literacy. I filmed the video on Nikon Z6 III camera and edited it using DaVinci Resolve.
       </p>
     </div>
-        <div class="text-block fade-slide" id="short">
-      <p>
-      </p>
-    </div>
-
-
 
 
     <div class="text-block fade-slide" id="short">
