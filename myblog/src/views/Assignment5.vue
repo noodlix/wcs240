@@ -18,44 +18,58 @@
 
     <div class="text-block fade-slide" id="short">
       <p>
-        We chose to explore the problem of financial illiteracy for this assignment. Many students
-        receive stipends but do not know how to spend them wisely. To see the percentage of people
-        who are not financially literate, we conducted a survey among students. We asked four short
-        questions about their stipends and spending habits. Two-thirds of the respondents answered
-        that they are financially illiterate. After getting these shocking results from our offline
-        and online surveys, we understood the significance of the problem. Our solution is to raise
-        awareness about financial literacy courses. Nowadays, the majority of people simply do not
-        know that there are such free courses on the internet. By taking these courses, people can
-        learn how to spend money wisely, divide it into parts, and even save it. These courses can
-        help many people who have different levels of financial knowledge. Our advocacy for this
-        video is “Start learning financial literacy today.” We wanted to motivate students to
-        improve their financial habits by joining free online courses. The main issue here is a lack
-        of awareness. Many people simply do not know that these courses exist. Therefore, such
-        courses could be beneficial if included as a mandatory program in universities and high
-        schools. We used one article written by Cedeno (2021) with a similar idea. The author taught
-        many people through financial literacy courses, and the results were impressive:
-        participants learned how to use their money properly and also improved their job and saving
-        skills. In our video, we used three rhetorical appeals (ethos, pathos, and logos) to make it
-        more persuasive. Ethos is shown through credible sources and statistics that make the
-        information trustworthy. Pathos is demonstrated by emotions in the story. Our main character
-        makes poor financial decisions that lead to bad consequences, which makes the video more
-        emotional. Logos is represented by arguments and data from the sources that support the
-        importance of financial literacy courses. When creating the PSA, we used several camera
-        techniques. For example, we used a dolly effect to show the character’s realization of the
-        importance of financial literacy. We filmed the video with a Nikon Z6 camera and edited it
-        using Davinci Resolve. The process of making the video consisted of several steps. First, we
-        wrote a script, which made our work much easier. We started the shooting process with the
-        scene where Nazym pays for something with her credit card. Then, we found one boy to act as
-        the main character’s boyfriend, who asks her for money. Next, we filmed the surveillance
-        scene, which was very funny because we asked a stranger to help us. After that, we shot some
-        scenes about financial literacy courses. Lastly, we edited the video and added a voice-over.
-        We also faced a few challenges. The biggest one was the voice-over. It was difficult because
-        we filmed almost everything in a cafe, and it was very loud there. We had to record the
-        audio and adjust it during editing. The second problem was focusing the camera on the main
-        character. It was hard to keep the image clear and stable. Overall, this project helped me
-        develop new skills. I learned how to edit videos in Davinci Resolve. At first, I thought it
-        was difficult and it definitely is, but after some time, I got used to the program. We also
-        learned how to choose the right music that fits each part of the video best.
+        We chose to explore the problem of financial illiteracy for this assignment. Many students receive a stipend but they do not know how to spend it wisely. To see the percentage of people who are not financially literate, we conducted a survey amongst students. We asked four short questions about their stipends and spending habits. 87% of the respondents considered themselves financially illiterate. 67% percent received a stipend and 81% spent most of it on food. After getting the results we understood the significance of the problem.
+      </p>
+    </div>
+
+    <div class="text-block fade-slide" id="short">
+      <p>
+        Our solution is to raise awareness about financial literacy courses. Nowadays, the majority of people simply do not know that there are such free courses on the internet. By taking these courses, people can learn how to spend money wisely, save and deposit the excess. These courses can help people with varying levels of financial knowledge.
+      </p>
+    </div>
+
+
+    <div class="text-block fade-slide" id="short">
+      <p>
+        Our advocacy for this video is “Start learning financial literacy today.” We wanted to motivate students to improve their financial habits by taking free online courses. The main issue right now is the lack of awareness. Many people simply do not know that such courses exist. Therefore, financial literacy courses could be beneficial if included as a mandatory program in universities and high schools. We used the article written by Cedeno (2021) with a similar idea. The author taught many people through financial literacy courses, and the results were impressive: participants learned how to use their money properly and also improved their job and saving skills.
+      </p>
+    </div>
+    <div class="text-block fade-slide" id="short">
+      <p>
+        In our video, we used three rhetorical appeals (ethos, pathos, and logos) to make it more persuasive. Ethos is shown through credible sources and statistics that make the information trustworthy. Pathos is demonstrated by emotions in the story. The main character makes poor financial decisions that lead to bad consequences, which makes the video more emotional. Humour and relationship drama also add to the pathos. Logos is represented by arguments and data from the sources that support the importance of financial literacy courses.
+
+      </p>
+    </div>
+        <div class="text-block fade-slide" id="short">
+      <p>
+        When creating the PSA, we used several camera techniques. For example, we used a dolly effect to show the main character learning about financial literacy. I filmed the video on Nikon Z6 III camera and edited it using DaVinci Resolve.
+      </p>
+    </div>
+        <div class="text-block fade-slide" id="short">
+      <p>
+      </p>
+    </div>
+
+
+
+
+    <div class="text-block fade-slide" id="short">
+      <p>
+        The process of making the video consisted of several steps. First, we wrote a script, which made our work much easier. We started the shooting process with the scene where Nazym pays for lots of things using her stipend money, spending it carelessly which is shown by fast cuts and energetic music. Then, we found a boy to act as the main character’s boyfriend, who asks her for money. Next, we filmed the stalking scene where the main character gets stalked by a debt collector because she borrowed too much and had no money to repay it all. After that, we shot the scenes where the main character takes financial literacy courses. Lastly, I edited the video and added a voice-over reciting the data we collected and the findings from our secondary sources.
+
+      </p>
+    </div>
+
+    <div class="text-block fade-slide" id="short">
+      <p>
+        We also faced a few challenges. I had troubles with the audio aspect of the video. IWe filmed almost everything in Daily Cup which is very loud. We recorded the dialogues on the phone and edited the audio in to minimize unnecessary noise. The second problem was focusing the camera on the main character. It was hard to keep the image clear and stable, as it was my first time shooting video on Nikon Z6 III.
+      </p>
+    </div>
+
+
+        <div class="text-block fade-slide" id="short">
+      <p>
+        Overall, this project helped me develop new skills. I learned how to edit videos in DaVinci Resolve. At first it was difficult but after some time I got used to the program. The reason why I chose DaVinci is that it has advanced color grading that I would love to master for future projects. I also learned how to choose the right music that fits each part of the video best to convey a certain vibe: calm or chaotic, upbeat or scary. 
       </p>
     </div>
   </div>
