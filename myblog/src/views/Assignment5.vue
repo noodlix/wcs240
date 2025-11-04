@@ -2,7 +2,7 @@
   <div class="assignment">
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
-        <h1>Digital Narrative</h1>
+        <h1>psa</h1>
       </section>
     </transition>
 
@@ -15,78 +15,20 @@
 
         <div class="text-block fade-slide" id="short">
       <p>
-My digital narrative explores “Man vs. Self”, and showcases different ways in which having an eating disorder affected my life back when I had it and it was at its worst. In the video there are scenes of hair falling out which is a very sensitive topic to me, as I wear hair extensions in real life because of hair loss that occurred in my first year, and I wanted to be vulnerable and not have them in for the duration of the video and filming. Another cool side effect of living with a disorder is falling out with friends, missing functions to avoid food, constant body-checking and comparing myself to others, my body to others’ which is shown by scrolling on twitter looking at thinspo - thin inspiration (banned on most social media) and fitspo - fit/gym inspiration.
-      </p>
-    </div>
+        
+We chose to explore the problem of financial illiteracy for this assignment. Many students receive stipends but do not know how to spend them wisely. To see the percentage of people who are not financially literate, we conducted a survey among students. We asked four short questions about their stipends and spending habits. Two-thirds of the respondents answered that they are financially illiterate. After getting these shocking results from our offline and online surveys, we understood the significance of the problem.
+Our solution is to raise awareness about financial literacy courses. Nowadays, the majority of people simply do not know that there are such free courses on the internet. By taking these courses, people can learn how to spend money wisely, divide it into parts, and even save it. These courses can help many people who have different levels of financial knowledge.
+Our advocacy for this video is “Start learning financial literacy today.” We wanted to motivate students to improve their financial habits by joining free online courses. The main issue here is a lack of awareness. Many people simply do not know that these courses exist. Therefore, such courses could be beneficial if included as a mandatory program in universities and high schools. We used one article written by Cedeno (2021) with a similar idea. The author taught many people through financial literacy courses, and the results were impressive: participants learned how to use their money properly and also improved their job and saving skills.
+In our video, we used three rhetorical appeals (ethos, pathos, and logos) to make it more persuasive. Ethos is shown through credible sources and statistics that make the information trustworthy. Pathos is demonstrated by emotions in the story. Our main character makes poor financial decisions that lead to bad consequences, which makes the video more emotional. Logos is represented by arguments and data from the sources that support the importance of financial literacy courses.
+When creating the PSA, we used several camera techniques. For example, we used a dolly effect to show the character’s realization of the importance of financial literacy. We filmed the video with a Nikon Z6 camera and edited it using Davinci Resolve.
+The process of making the video consisted of several steps. First, we wrote a script, which made our work much easier. We started the shooting process with the scene where Nazym pays for something with her credit card. Then, we found one boy to act as the main character’s boyfriend, who asks her for money. Next, we filmed the surveillance scene, which was very funny because we asked a stranger to help us. After that, we shot some scenes about financial literacy courses. Lastly, we edited the video and added a voice-over.
+We also faced a few challenges. The biggest one was the voice-over. It was difficult because we filmed almost everything in a cafe, and it was very loud there. We had to record the audio and adjust it during editing. The second problem was focusing the camera on the main character. It was hard to keep the image clear and stable.
+Overall, this project helped me develop new skills. I learned how to edit videos in Davinci Resolve. At first, I thought it was difficult and it definitely is, but after some time, I got used to the program. We also learned how to choose the right music that fits each part of the video best.
 
-
-    <div class="text-block fade-slide" id="short">
-      <p>
-        The video starts off on a cliche, with a phone alarm buzzing at 9am, the screen is shot from above, beginning the day. My roommate walks out of the room waving bye, and there is a medium shot of my eyes following her passing by, waiting to be left alone. When the door closes behind the roommate, music starts to escalate. I start off my disordered routine, fast cuts, going to the toilet to purge, taking my clothes off to not have them affect my weigh in, and it is important that I am alone in the room not only because I am getting naked but also because I can not show that there is anything wrong with me to other people which is a recurring theme in the DN. For most scenes because of a sensitive topic that I chose I was ashamed to ask my peers to help shoot, so I employed a phone case suction pad which sometimes slipped but I loved the effect of instability conveyed through rotating and falling camera movement, so I call it not a bug but a feature. A close of the number on the scales, it flickering, camera focuses on it showing its importance.
-      </p>
-    </div>
-
-        <div class="text-block fade-slide" id="short">
-      <p>
-Only after weighing myself can I start my day off actually, still disappointed by the number, which was the most important thing during that period of my life, dictating if I will be happy and allowed to have fun that day or restricting myself and focusing on food and nothing else. After brushing my teeth and washing my face and combing my hair and focusing on the crazy amount of hair that fell off with a stupid diet plan with nutritional value fit for a toddler that I followed most of the binge-free days I start body-checking, analysing my body in the mirror, fingers tracing skin, pinching rolls, imagining what I would look like without the fat ruining my body.
-      </p>
-    </div>
-    <div class="text-block fade-slide" id="short">
-      <p>
-After the beat drop pause and a ding I start to assemble breakfast, measuring out a 1% fat claiming to be high protein kefir which used to be bought consistently in my freshman year, chia seeds for their high fiber laxative effect, and an apple, counting calories.
 
       </p>
     </div>
 
-        <div class="text-block fade-slide" id="short">
-      <p>
-I show struggle to put on my leggings as they became small because of my weight gain, continue to body check in the mirror as I could never pass on any reflecting surface without at least glancing at my body, making sure to put the part in the song “become a big ape” as I exhale from sucking in my stomach. I obsess over my collarbones one last time and its time to go, put my shoes on and run to burn calories, no other purpose.
-
-      </p>
-    </div>
-
-
-            <div class="text-block fade-slide" id="short">
-      <p>
-In the store I showed all the drink options and the only criteria for me was not what I was craving, the taste of the drink, or their price, it was the caloric value, and I always went with coke zero. I used a “hazy” filter to show what my eye focused on.
-
-      </p>
-    </div>
-
-            <div class="text-block fade-slide" id="short">
-      <p>
-Next scene is me trying to study with all the food noise, with the calories of the food right after. I open the fridge to eat my leftovers and then think of thinspo to repel myself and command myself to close the fridge.
-
-      </p>
-    </div>
-            <div class="text-block fade-slide" id="short">
-      <p>
-I fail to put on my nice dress, mortified, thinking “Is the dress too small or my body to big?” and find comfort again in comparing myself to strangers on the internet, doing anything to avoid stuffing my face as a friend texts me to have lunch and I imagine all the food there that I will have to resist and decline the invitation, lying about already having eaten, missing out on a nice catch up with a friend, socially isolating myself to keep my intake low. The scene of visualising food is in black and white to not mistake it foor being real events.
-
-      </p>
-    </div>
-
-                <div class="text-block fade-slide" id="short">
-      <p>
-I assemble a zero-calorie coffee and go to “class” where a classmate offers me a cookie, there is a CU of her hands which shows my extreme interest in her food and she offers me one, and a normal person would decline but I needed to act as normal as possible and waste the cookie washing it under the drain, for reasons that will be apparent later. Just saying no could potentially result in her asking me why and I was ashamed to talk about dieting or food in general.
-
-      </p>
-    </div>
-
-                    <div class="text-block fade-slide" id="short">
-      <p>
-Next is me walking with a boy I am romantically interested in, but have my eating disorder block any relationship opportunities because of my fear of food. Just thinking of the food I would have to eat on the date has me declining the offer and rushing to my room, not forgetting to body check in the elevator mirror. I quickly discard the candies, but pick one up from the trash and eat it, then get mad at myself for it and ruin them by pouring dishwashing soap on them and spraying hairspray to not eat any more.
-
-      </p>
-    </div>
-
-    
-                    <div class="text-block fade-slide" id="short">
-      <p>
-Still the candy results in a binge, as I sit down in the kitchen surrounded by food, regretting my life decisions.
-
-      </p>
-    </div>
 
                         <div class="text-block fade-slide" id="short">
       <p>
