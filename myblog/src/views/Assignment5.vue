@@ -3,6 +3,7 @@
     <transition name="fade-slide">
       <section class="header" v-show="showHeader">
         <h1>Public Service Announcement</h1>
+        <h2>Financial Literacy</h2>
         <h3>by Nazym Murat & Zhibek Zhumagul</h3>
       </section>
     </transition>
@@ -65,6 +66,48 @@
         <div class="text-block fade-slide" id="short">
       <p>
         Overall, this project helped me develop new skills. I learned how to edit videos in DaVinci Resolve. At first it was difficult but after some time I got used to the program. The reason why I chose DaVinci is that it has advanced color grading that I would love to master for future projects. I also learned how to choose the right music that fits each part of the video best to convey a certain vibe: calm or chaotic, upbeat or scary. 
+      </p>
+    </div>
+
+
+
+        <div class="text-block fade-slide" id="short">
+      <p>
+Sources:<br>
+Bradley, S. L. (2021). Financial literacy education: An opportunity for colleges and sociology. Sociology     Compass, 15(10), e12922. https://doi.org/10.1111/soc4.12922<br>
+Cedeño, D. (2021). The effectiveness of a financial literacy and job-readiness curriculum for     youth from low-income households. Citizenship, Social and Economics Education, 20(3),     197–215. https://doi.org/10.1177/20471734211051770<br>
+Cude, B., Lawrence, F., Lyons, A., Metzger, K., LeJeune, E., Marks, L., & Machtmes, K. (2006). College     students and financial literacy: What they know and what we need to learn. Proceedings of the     Eastern Family Economics and Resource Management Association, 102(9), 106-109.<br>
+      </p>
+
+
+    </div>
+        <div class="text-block fade-slide" id="short">
+      <p>
+        Music:<br>
+Remember by KaizanBlu<br>
+Hypnosis by VallaK<br>
+Go Funk by Infraction<br>
+Horror Music by Audionautix<br>
+      </p>
+    </div>
+
+
+  <div class="text-block fade-slide" id="short">
+    <p>
+      Actors: <br>
+      Girl - Nazym Murat<br>
+      Boyfriend - Abylaikhan Kumarbek<br>
+      Collector - Andrey Levin
+    </p>
+  </div>
+
+            <div class="text-block fade-slide" id="short">
+      <p>
+
+Team: <br>
+Scenarist - Nazym Murat <br>
+Operator - Zhibek Zhumagul <br>
+Editor - Zhibek Zhumagul<br>
       </p>
     </div>
   </div>
