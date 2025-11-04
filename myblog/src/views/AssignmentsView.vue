@@ -30,6 +30,12 @@
       </span>
       <img src="/cover4.png" alt="Assignment 4 preview" class="hover-img" />
     </router-link>
+
+        <router-link to="/assignment5" class="img-placeholder">
+      <span>psa
+      </span>
+      <img src="/cover4.png" alt="Assignment 5 preview" class="hover-img" />
+    </router-link>
   </section>
 </transition>
 
